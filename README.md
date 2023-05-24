@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1223&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1223v&show_icons=true&theme=tokyonight)
 
 
 - 👋 Hi, I’m @1223v
