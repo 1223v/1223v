@@ -23,7 +23,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 2022.12 2022 부산정보산업진흥원XKAKAO 클라우드 아이디어 공모전 장려상 </br>
 2023.10.06 2023-1학기 가톨릭대학교 캡스톤디자인 경진대회 장려상 </br>
 2023.10.21 2023-1학기 가톨릭대학교 교내 ACM-ICPC 예선 대회 은상 </br>
-2023.10 2023 한국관광공사XKAKAO 2022 관광데이터 활용공모전 장려상 </br>
+2023.10 2023 한국관광공사XKAKAO 2023 관광데이터 활용공모전 장려상 </br>
 </br>
 </br>
 </br>
