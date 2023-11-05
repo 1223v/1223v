@@ -5,6 +5,7 @@
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 ~ </em>
   
 </p> 
+
 ## Awards
 
 2021.08 가톨릭대학교 창업경진대회 아이템전 우수상 </br>
