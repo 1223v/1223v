@@ -33,4 +33,4 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 2021.08 ~ CAT-Security 교내 보안 동아리 </br>
 2021.08 ~ 2023.12 가톨릭대학교 웹사이트 취약점 점검 외주 </br>
 2022.08 ~ 2023.12 NCSoft 웹사이트 취약점 점검 외주 </br>
-2023.01 ~ 2024.04 이화여자대학교 통번역 자동화 플랫폼 외주 Frontend-Backend Developer</br>
+2023.01 ~ 2024.04 이화여자대학교 통번역 자동화 플랫폼 외주 Frontend Developer</br>
