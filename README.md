@@ -1,7 +1,8 @@
 <h2 align="center"> About </h2>
 
-<h3 align="center">University</h3>
-<p align="center">
+
+## University
+
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 ~ </em>
   
 </p> 
