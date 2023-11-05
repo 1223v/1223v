@@ -6,7 +6,9 @@
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 ~ </em>
   
 </p> 
-
+</br>
+</br>
+</br>
 ## Awards
 
 2021.08 가톨릭대학교 창업경진대회 아이템전 우수상 </br>
@@ -15,7 +17,9 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 2023.10.06 2023-1학기 가톨릭대학교 캡스톤디자인 경진대회 장려상 </br>
 2023.10.21 2023-1학기 가톨릭대학교 교내 ACM-ICPC 예선 대회 은상 </br>
 2023.10 2023 한국관광공사XKAKAO 2022 관광데이터 활용공모전 장려상 </br>
-
+</br>
+</br>
+</br>
 ## Carrer
 
 2021.08 ~ CAT-Security 교내 보안 동아리 </br>
