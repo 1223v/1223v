@@ -26,7 +26,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 <h3 align="center"> 🔥 Awards 🔥</h3>
 
-|Date|Organization|Awards|
+|Date|Awards|Organization|
 |:---:|:---:|:---:|
 |2021.08 | 창업경진대회 아이템전 우수상 | 가톨릭대학교 |
 |2022.10| 2022 관광데이터 활용공모전 장려상 | 한국관광공사 X KAKAO|
