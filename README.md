@@ -8,9 +8,9 @@
  
 <div align="center">
 <img alt=
-"SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+"SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
 </div>
 <br> 
