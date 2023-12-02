@@ -38,4 +38,5 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 </div>
 
 <br>
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)nce-api"
