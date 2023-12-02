@@ -20,6 +20,10 @@
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 - now </em>
 </p>   
 
+</br>
+</br>
+</br>
+
 <h3 align="center"> 🔥 Awards 🔥</h3>
 
 |Organization|Awards|Date|
