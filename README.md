@@ -1,22 +1,17 @@
-<h2 align="center"> About </h2>
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<div align=center>
+ 
+ <h2 align="center">👨‍💻 About 👨‍💻</h2>
 
-## University
+<br> 
 
-Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 ~ </em>
-  
+<h3 align="center">🏫 University 🏫</h3>
+<p align="center">
+Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 - now </em>
+</p>   
 
-</br>
-</br>
-</br>
-
-## Awards
+<h3 align="center"> 🔥 Awards 🔥</h3>
 
 2021.08 가톨릭대학교 창업경진대회 아이템전 우수상 </br>
 2022.10 2022 한국관광공사 X KAKAO 2022 관광데이터 활용공모전 장려상 </br>
@@ -28,10 +23,19 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 </br>
 </br>
 </br>
+ 
+<h3 align="center"> 🧩 Activity 🧩</h3>
 
-## Carrer
+|Organization|Activity|Role|Date|
+|:---:|:---:|:---:|:---:|
+| CAT-Security | 정보보보안동아리 | 회원 |2021 ~ |
+| 가톨릭대학교 | 웹 취약점 점검 | 외주 |2021 ~ 2023|
+| NCSoft | 보안 취약점 점검| 외주 |2022 ~ 2023|
+| 이화여자대학교 | Frontend Developer | 외주 |2022 ~ 2024|
+ 
+ <br>
+ 
+</div>
 
-2021.08 ~ CAT-Security 교내 보안 동아리 </br>
-2021.08 ~ 2023.12 가톨릭대학교 웹사이트 취약점 점검 외주 </br>
-2022.08 ~ 2023.12 NCSoft 웹사이트 취약점 점검 외주 </br>
-2023.01 ~ 2024.04 이화여자대학교 통번역 자동화 플랫폼 외주 Frontend Developer</br>
+<br>
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
