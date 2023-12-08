@@ -46,8 +46,8 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
-| [ReadyVery](https://readyvery.com/) | Backend Developer| Founder |2022 ~ 2023|
-| [이화여자대학교](https://edu-trans.ewha.ac.kr) | Frontend Developer | 외주 |2022 ~ 2024|
+| [ReadyVery](https://readyvery.com/) | Backend Developer| 유저 정보 및 점주사이드 서비스 개발 |2022 ~ |
+| [이화여자대학교](https://edu-trans.ewha.ac.kr) | Frontend Developer | 이화여대 통번역 플랫폼 외주 개발 |2022 ~ 2024|
 | NCSoft | 보안 취약점 점검| 외주 |2022 ~ 2023|
 | 가톨릭대학교 | 웹 취약점 점검 | 외주 |2021 ~ 2023|
 
