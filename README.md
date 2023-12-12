@@ -32,7 +32,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 |2022.10| [2022 관광데이터 활용공모전 장려상](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcmCH2%2FbtscPYwvfrM%2FkLlO1EKBGaHq2ibEcTp9Ck%2Fimg.jpg) | 한국관광공사 X KAKAO|
 |2022.12| [2022 클라우드 아이디어 공모전 장려상](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdJCFJq%2FbtscPZCdTyG%2FlS29pod62rROu2iAZkNvdK%2Fimg.jpg) | 부산정보산업진흥원 X KAKAO |
 |2023.10.06 | 캡스톤디자인 경진대회 장려상| 가톨릭대학교 |
-|2023.10.21| ACM-ICPC 예선 대회 은상| 가톨릭대학교 |
+|2023.10.21| [ACM-ICPC 예선 대회 은상](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbJeuqu%2FbtsBMQOmKby%2FoMUxNwcur5KXBNQylAYih1%2Fimg.png)| 가톨릭대학교 |
 |2023.10| [2023 관광데이터 활용공모전 장려상](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdexLkp%2FbtsBkm6L9pL%2FxwpKVLLzPqKDRXVLXVkKXK%2Fimg.jpg) | 한국관광공사 X KAKAO |
 |2023.11.11| 2023 Global Coffee Youth Idea Contest 대상 | 월드커피리더스포럼 조직위원회 X 엑스포럼|
 
