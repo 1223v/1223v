@@ -58,9 +58,9 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 <h3 align="center"> 🧩 Certification 🧩</h3>
 
-|Organization|Activity|Role|Date|
-|:---:|:---:|:---:|:---:|
-| AWS | AWS Certified Solutions Architect - Associate | Solutions Architect - Associate |2024.08.14 ~ |
+|Organization|Certification|Date|
+|:---:|:---:|:---:|
+| AWS | AWS Certified Solutions Architect - Associate |2024.08.14 ~ |
 
 
  
