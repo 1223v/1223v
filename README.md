@@ -52,6 +52,10 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 | NCSoft | 보안 취약점 점검| 웹사이트 보안 취약점 제보 외주 |2022 ~ 2023|
 | 가톨릭대학교 | 웹 취약점 점검 | 웹사이트 보안 취약점 제보 외주 |2021 ~ 2023|
 
+</br>
+</br>
+</br>
+
 <h3 align="center"> 🧩 Certification 🧩</h3>
 
 |Organization|Activity|Role|Date|
