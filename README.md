@@ -11,6 +11,8 @@
 "SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=1223v)](https://solved.ac/1223v)
 <br>
 </div>
 <br> 
@@ -62,12 +64,12 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 |:---:|:---:|:---:|
 | AWS | AWS Certified Solutions Architect - Associate |2024.08.14 ~ |
 | AWS | AWS Certified Solutions Architect - Professional |2025.05.05 ~ |
-
-
  
  <br>
  
 </div>
+
+
 
 <br>
 
