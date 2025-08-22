@@ -17,11 +17,13 @@
 </div>
 <br> 
 
-<h3 align="center">🏫 University 🏫</h3>
+<h3 align="center">🏫 Education 🏫</h3>
 <p align="center">
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 - now </em>
 </p>   
-
+<p align="center">
+SSAFY 14th —  &nbsp; <em>Java Engineering Track &nbsp;   July  2025 - now </em>
+</p>   
 </br>
 </br>
 </br>
