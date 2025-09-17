@@ -32,7 +32,7 @@ SSAFY 14th —  &nbsp; <em>Java Engineering Track &nbsp;   July  2025 - now </em
 
 |Date|Awards|Organization|
 |:---:|:---:|:---:|
-|2025.09.| Amazon Q Developer Hackathon 2025 인기상 | Amazon Web Services |
+|2025.09.| Amazon Q Developer Hackathon 2025 3rd award | Amazon Web Services |
 |2024.07.| 2024 캡스톤디자인 경진대회 대상 | 가톨릭대학교 |
 |2023.11.11| 2023 Global Coffee Youth Idea Contest 대상 | 월드커피리더스포럼 조직위원회 X 엑스포럼|
 |2023.10| 2023 관광데이터 활용공모전 장려상 | 한국관광공사 X KAKAO |
