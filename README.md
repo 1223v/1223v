@@ -59,7 +59,7 @@ SSAFY 14th —  &nbsp; <em>Java Engineering Track &nbsp;   July  2025 - now </em
 
 |Organization|Activity|Role|Date|
 |:---:|:---:|:---:|:---:|
-| [ReadyVery](https://test.readyvery.com/) | Backend Developer| 유저 정보 및 점주사이드 서비스 개발 |2023 ~ |
+| [ReadyVery](https://ready.marinesnow34.com/) | Backend Developer| 유저 정보 및 점주사이드 서비스 개발 |2023 ~ |
 | [이화여자대학교](https://edu-trans.ewha.ac.kr) | Frontend Developer | 이화여대 통번역 플랫폼 외주 개발 |2022 ~ 2024|
 | NCSoft | 보안 취약점 점검| 웹사이트 보안 취약점 제보 외주 |2022 ~ 2023|
 | 가톨릭대학교 | 웹 취약점 점검 | 웹사이트 보안 취약점 제보 외주 |2021 ~ 2023|
