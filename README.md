@@ -22,7 +22,7 @@
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2019 - FEB 2025 </em>
 </p>   
 <p align="center">
-SSAFY 14th —  &nbsp; <em>Java Engineering Track &nbsp;   July  2025 - now </em>
+SSAFY 14th —  &nbsp; <em>Java Engineering Track &nbsp;   July  2025 - October 2025</em>
 </p>   
 </br>
 </br>
